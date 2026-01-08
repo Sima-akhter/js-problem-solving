@@ -1,4 +1,4 @@
-
+// Sum of All Numbers
 function sumArray(arr){
     let sum = 0;
 

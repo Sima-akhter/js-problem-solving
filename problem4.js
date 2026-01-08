@@ -1,4 +1,4 @@
-
+// Find the Maximum Number
 function findMax(arr) {
     let max = [0];
     for(let i = 1; i<arr.length; i++){

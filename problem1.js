@@ -1,3 +1,4 @@
+// Reverse a String
 
 function reverseSting(str) {
      let reversed = "";
