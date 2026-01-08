@@ -9,4 +9,5 @@ function reverseSting(str) {
 
 }
 
-console.log(reverseSting("hello"));
+const result = reverseSting("hello")
+console.log(result);

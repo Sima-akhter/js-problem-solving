@@ -8,5 +8,5 @@ function findMax(arr) {
     }
     return max;
 }
-
-console.log(findMax([5, 1, 9, 3]));
+const result = findMax([5, 1, 9, 3])
+console.log(result);
